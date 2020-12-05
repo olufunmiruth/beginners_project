@@ -4,3 +4,4 @@
 
 1 - [lift off](#lift_off)
 2 - [99 Bottles](#99_bottles)
+3 - [bmi calculation](#bmi_calculation
